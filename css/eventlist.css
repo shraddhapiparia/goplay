@@ -1,0 +1,38 @@
+/*/components/style/framework/font-face.css*/
+        /*src: /trunk/css/internal/layout/global/font-face.min.css*/
+        
+        .mu-i-cupname {
+            display: none;
+            visibility: hidden
+        }
+        
+        @font-face {
+            font-family: 'Open Sans';
+            src: url("/trunk/css/fonts/OpenSans-Light-complete.eot");
+            src: local("☺"), url("/trunk/css/fonts/OpenSans-Light-complete.eot#iefix") format('embedded-opentype'), url("/trunk/css/fonts/OpenSans-Light-complete.woff") format('woff'), url("/trunk/css/fonts/OpenSans-Light-complete.ttf") format('truetype'), url("/trunk/css/fonts/OpenSans-Light-complete.svg#svgFontName") format('svg');
+            font-style: normal;
+            font-weight: 200
+        }
+        
+        @font-face {
+            font-family: 'Open Sans';
+            src: url("/trunk/css/fonts/OpenSans-Regular-complete.eot");
+            src: local("☺"), url("/trunk/css/fonts/OpenSans-Regular-complete.eot#iefix") format('embedded-opentype'), url("/trunk/css/fonts/OpenSans-Regular-complete.woff") format('woff'), url("/trunk/css/fonts/OpenSans-Regular-complete.ttf") format('truetype'), url("/trunk/css/fonts/OpenSans-Regular-complete.svg#svgFontName") format('svg');
+            font-style: normal;
+            font-weight: 400
+        }
+        
+        @font-face {
+            font-family: 'Open Sans';
+            src: url("/trunk/css/fonts/OpenSans-Bold-complete.eot");
+            src: local("☺"), url("/trunk/css/fonts/OpenSans-Bold-complete.eot#iefix") format('embedded-opentype'), url("/trunk/css/fonts/OpenSans-Bold-complete.woff") format('woff'), url("/trunk/css/fonts/OpenSans-Bold-complete.ttf") format('truetype'), url("/trunk/css/fonts/OpenSans-Bold-complete.svg#svgFontName") format('svg');
+            font-style: normal;
+            font-weight: 700
+        }
+        
+        @font-face {
+            font-family: "fifa-icons";
+            src: url("/trunk/css/fonts/FifaIcons.eot");
+            src: local("☺"), url("/trunk/css/fonts/FifaIcons.eot#iefix") format('embedded-opentype'), url("/trunk/css/fonts/FifaIcons.woff") format('woff'), url("/trunk/css/fonts/FifaIcons.ttf") format('truetype'), url("/trunk/css/fonts/FifaIcons.svg#svgFontName") format('svg');
+            font-style: normal
+        }
