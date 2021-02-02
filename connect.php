@@ -1,8 +1,8 @@
 <?php
-$server = '127.0.0.1';
+$server = '3333333';
 $database = 'goplay_local';
-$username = 'root';
-$password = 'root';
+$username = '****';
+$password = '********';
 try {
   $pdoConn = new PDO("mysql:host=$server;dbname=$database",$username, $password);
 } catch (PDOException $e) {
